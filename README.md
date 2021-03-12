@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Bappik
+- 👀 I’m interested in Java, Android, Games, Animate
+- 🌱 I’m currently learning Android
+- 💞️ I’m looking to collaborate on Android, Games, Animate
+- 📫 How to reach me bugratastan48@gmail.com
